@@ -1,7 +1,6 @@
-*gras* BIENVENUE SUR MON PROJET Git/GitHub
-DU PROGRAMME DESS-TIC-BRH
+# BIENVENUE SUR MON PROJET Git/GitHubDU PROGRAMME DESS-TIC-BRH
 
-# MES COURS TII DESS BRH 2025
+## MES COURS TII DESS BRH 2025
 
 Ce dépôt contient les supports de cours, exercices et projets liés au 
 programme TII DESS BRH 2025.
